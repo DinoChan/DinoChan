@@ -3,6 +3,8 @@
 <!--
 **DinoChan/DinoChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Dino Chan. I was born in China. I'm a Windows Developer,[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003763?fullName=Dino%20Chan).
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
