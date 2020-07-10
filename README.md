@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dino Chan. I was born in China. I'm a Windows Developer,[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003763?fullName=Dino%20Chan).
+My name is Dino Chan. I was born in China. I'm a Windows Developer, [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003763?fullName=Dino%20Chan).
 
 ### Contact me
 
