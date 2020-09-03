@@ -8,7 +8,7 @@ My name is Dino Chan. I was born in China. I'm a Windows Developer, [Microsoft M
 - <https://www.cnblogs.com/dino623/>
 - <dino.chan@live.com>
 
-[![Dino's github stats](https://github-readme-stats.vercel.app/api?username=DinoChan&show_icons=false&theme=radical)](https://github.com/DinoChan/DinoChan)
+[![Dino's github stats](https://github-readme-stats.vercel.app/api?username=DinoChan&show_icons=false&theme=monokai)](https://github.com/DinoChan/DinoChan)
 
 <!--
 **DinoChan/DinoChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
