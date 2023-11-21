@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dino Chan. I was born in China. I'm a Windows Developer.
+My name is Dino Chan. 
 
 ### Contact me
 
